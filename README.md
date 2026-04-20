@@ -44,6 +44,9 @@ Instead of calling ready-made functions, every core concept is coded step-by-ste
 
 ## 📂 Files Included
 
+```bash
+Linear_Regression_From_Scratch.ipynb
+README.md
 
 
 ⚙️ How It Works
